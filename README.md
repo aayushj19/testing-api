@@ -1,5 +1,3 @@
-# testing-api
-
 ### 📚 Book Management API
 A simple RESTful API server built using Node.js, Express, and MongoDB that allows performing CRUD operations on books.
 
@@ -22,8 +20,8 @@ DELETE	/books/:id	Delete a book
 📦 How to Run the App Locally
 # Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https:https://github.com/aayushj19/testing-api.git
+cd your-testing-api
 
 # Install dependencies
 npm install
