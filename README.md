@@ -10,12 +10,12 @@ PUT	/books/:id	Update an existing book
 DELETE	/books/:id	Delete a book
 
 🛠️ Tech Stack
--Node.js
--Express.js
--MongoDB with Mongoose
--Jest – Unit Testing
--Supertest – API & Integration Testing
--mongodb-memory-server – In-memory DB for tests
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+- Jest – Unit Testing
+- Supertest – API & Integration Testing
+- mongodb-memory-server – In-memory DB for tests
 
 📦 How to Run the App Locally
 # Clone the repository
