@@ -1,0 +1,28 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "preset": "jest-environment-node",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage",
+    "coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"  },
+  "jest": {
+    "transform": {}
+  },
+  "keywords": [],
+  "author": "",
+    "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.2",
+    "mongodb-memory-server": "^10.1.4",
+    "supertest": "^7.1.1"
+  },
+  "license": "ISC",
+  "description": ""
+}
