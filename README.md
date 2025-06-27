@@ -60,6 +60,10 @@ npm test -- --coverage
 -Supertest – For HTTP API endpoint testing
 -mongodb-memory-server – For isolated MongoDB during tests
 
-📊 Test Coverage Report
+📊 Manual Test Coverage Report
 ![image](https://github.com/user-attachments/assets/d6b1a18b-fa07-421b-8ad6-bfaee1b30889)
+
+### Keploy's API Test Reports
+![image](https://github.com/user-attachments/assets/1f071cfc-8587-4b16-9c2d-1531437d2851)
+
 
